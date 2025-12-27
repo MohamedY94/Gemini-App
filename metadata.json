@@ -1,0 +1,8 @@
+{
+  "name": "FlowState",
+  "description": "An 'Operating System for your Vibe' featuring Aurora Glass aesthetics and multimodal AI task management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
